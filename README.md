@@ -1,3 +1,4 @@
+```bash
 /** rofi -show drun -normal-window -config ~/.config/rofi/config.rasi
  * Rofi Configuration with Nordic Theme
  * For Arch Linux + i3wm
@@ -128,3 +129,4 @@ element-icon {
     padding: 0 8px 0 0;
     border: 0px;
 }
+```
